@@ -1,5 +1,5 @@
 # ens_checker
-这个不是帮你遍历所有的ens域名，检查自己想要检查的东西
+这个不是帮你遍历所有的ens域名，但可以检查自己想要检查的东西
 
 备份：https://github.com/gm365/ENS_Checker ，无需打开代理，直接检查
 
